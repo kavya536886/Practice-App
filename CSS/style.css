@@ -1,29 +1,31 @@
 input {
-    width: 5em;
+    width: 10em;
 }
 
 #total-field {
-    width: 14.7em;
+    width: 115em;
 }
 
 label {
     margin-right: 1em;
 }
-
+body{
+    background-color: bisque;
+}
 table {
-    max-width: 25em;
-    padding-bottom: 1em;
-    padding-top: 1em;
+    max-width: 30em;
+    padding-bottom: 2em;
+    padding-top: 2em;
 }
 
-#button-div{
+#b1{
     text-align: center;
 }
 
-.centered {
-    margin: 5px auto 5px auto;
+.c {
+    margin: 10px auto 10px auto;
 }
 
-.blank-row {
-    height: 0.8em;
+.b {
+    height: 1em;
 }
