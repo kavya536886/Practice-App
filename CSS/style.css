@@ -1,0 +1,29 @@
+input {
+    width: 5em;
+}
+
+#total-field {
+    width: 14.7em;
+}
+
+label {
+    margin-right: 1em;
+}
+
+table {
+    max-width: 25em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+#button-div{
+    text-align: center;
+}
+
+.centered {
+    margin: 5px auto 5px auto;
+}
+
+.blank-row {
+    height: 0.8em;
+}
