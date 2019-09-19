@@ -10,11 +10,11 @@
 </head>
 <body>
     <div id="main">
-        <table class="centered">
+        <table class="c">
             <tr>
                 <td colspan="2"><label for="total-field">Total:</label><input id="total-field" type="text" name="total-field"></td>
             </tr>
-            <tr class="blank-row">
+            <tr class="b">
             </tr>
                 <td colspan="2"></td>
             <tr>
@@ -30,7 +30,7 @@
             </tr>
         </table>
         
-        <div id="button-div">
+        <div id="b1">
             <button id="btn-calculate">Calculate</button>
         </div>
     </div>
