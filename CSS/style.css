@@ -5,6 +5,9 @@ input {
 #total-field {
     width: 115em;
 }
+button{
+    color: coral;
+}
 
 label {
     margin-right: 1em;
@@ -13,10 +16,11 @@ body{
     background-color: bisque;
 }
 table {
-    max-width: 30em;
-    padding-bottom: 2em;
-    padding-top: 2em;
+    max-width: 20em;
+    padding-bottom: 1em;
+    padding-top: 1em;
 }
+
 
 #b1{
     text-align: center;
