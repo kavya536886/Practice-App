@@ -19,7 +19,7 @@
                 <td colspan="2"></td>
             <tr>
                 <td><label>Tip: <span id="tip-amount">$0.0</span></label></td>
-                <td><label for="rate-field">Rate:</label><input id="rate-field" type="text" name="rate-field" value="20.0"></td>
+                <td><label for="rate-field">Rate:</label><input id="rate-field" type="text" name="rate-field" value=""></td>
             </tr>
             <tr>
                 <td><label>Tax: <span id="tax-amount">$0.0</span></label></td>
