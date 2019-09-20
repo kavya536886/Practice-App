@@ -20,8 +20,8 @@ function onButtonPress() {
     const tax = calculateTax(total, taxRate);
     const grandTotal = calculateGrandTotal(total, tip, tax);
 
-    document.querySelector('#tip-rate').innerHTML = `$${tip.toFixed(2)}`
-    document.querySelector('#tax-rate').innerHTML = `$${tax.toFixed(2)}`
+    document.querySelector('#tip-amount').innerHTML = `$${tip.toFixed(2)}`
+    document.querySelector('#tax-amount').innerHTML = `$${tax.toFixed(2)}`
     document.querySelector('#grand-total').innerHTML = `$${grandTotal.toFixed(2)}`
 }
 
