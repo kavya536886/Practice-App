@@ -12,14 +12,14 @@
     <div id="main">
         <table class="c">
             <tr>
-                <td colspan="2"><label for="total-field">Total:</label><input id="total-field" type="text" name="total-field"></td>
+                <td colspan="3"><label for="total-field">Total:</label><input id="total-field" type="text" name="total-field"></td>
             </tr>
             <tr class="b">
             </tr>
-                <td colspan="2"></td>
+                <td colspan="3"></td>
             <tr>
                 <td><label>Tip: <span id="tip-amount">$0.0</span></label></td>
-                <td><label for="rate-field">Rate:</label><input id="rate-field" type="text" name="rate-field" value=""></td>
+                <td><label for="rate-field">Rate:</label><input id="rate-field" type="text" name="rate-field" value="  "></td>
             </tr>
             <tr>
                 <td><label>Tax: <span id="tax-amount">$0.0</span></label></td>
